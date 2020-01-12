@@ -1,3 +1,5 @@
+//ACTIONS illustrated that can be performed on Redux store
+
 import * as ACTION_TYPES from './action_types'
 
 export const SUCCESS = {

@@ -1,3 +1,5 @@
+//Reducer functions and switch cases for Redux
+
 import * as ACTION_TYPES from '../actions/action_types'
 
 const initialState={

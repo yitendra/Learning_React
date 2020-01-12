@@ -1,4 +1,5 @@
 //Redux support only Container Component not functional
+//Read and Write ACTIONS on Redux store
 
 import React, {Component} from 'react';
 import * as ACTIONS from '../store/actions/actions';
